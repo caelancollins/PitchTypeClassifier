@@ -21,9 +21,9 @@ There were a number of features that could be immediately removed from considera
 
 The remaining features certainly all carry relevance to pitch type, some of course more so than others. Looking at box plots, the distinction and distributions between different pitch types could be visually investigated. A number of these box plots are shown below where the distinction between pitch types seemed fairly evident.
 
-![Start Speed](BoxPlots/ratevdir.png)
-![pfx_z](BoxPlots/ratevdir.png)
-![Spin Direction](BoxPlots/ratevdir.png)
+![Start Speed](BoxPlots/start_speed.png)
+![pfx_z](BoxPlots/pfx_z.png)
+![Spin Direction](BoxPlots/spindirND.png)
 
 
 A model-based ranking was then conducted by building a model on each feature individually. The accuracy scores provided additional insight as to which features were most important. These predictions are shown in the table below. Each features ability to predict fastballs was also considered to gain a little extra view on how these features were affecting the model.
